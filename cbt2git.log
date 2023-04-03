@@ -1,0 +1,22 @@
+2023-04-03 03:01:55.000343 - Initialized conversion of CBT838
+2023-04-03 03:01:55.277026 - Received CBT.V504.FILE838.PDS from FILE838.XMI 
+2023-04-03 03:01:55.279340 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:01:55.280768 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/$$NOTE1
+2023-04-03 03:01:55.282012 - Found $$README.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/$$README
+2023-04-03 03:01:55.283344 - Found $OBIT.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/$OBIT
+2023-04-03 03:01:55.284411 - Found @FILE838.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/@FILE838
+2023-04-03 03:01:55.285511 - Found BREAK.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/BREAK
+2023-04-03 03:01:55.286770 - Found CECDYN.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/CECDYN
+2023-04-03 03:01:55.287801 - Found CECDYNO.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/CECDYNO
+2023-04-03 03:01:55.289009 - Found CECDYNRW.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/CECDYNRW
+2023-04-03 03:01:55.290235 - Found CONTINUE.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/CONTINUE
+2023-04-03 03:01:55.291493 - Found DOMACRO.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/DOMACRO
+2023-04-03 03:01:55.292575 - Found DUMPINFO.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/DUMPINFO
+2023-04-03 03:01:55.293651 - Found ELSE.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/ELSE
+2023-04-03 03:01:55.294954 - Found ELSEIF.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/ELSEIF
+2023-04-03 03:01:55.296110 - Found EQUBC.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/EQUBC
+2023-04-03 03:01:55.297173 - Found FI.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/FI
+2023-04-03 03:01:55.298156 - Found IF.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/IF
+2023-04-03 03:01:55.299186 - Found MACLIB.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/MACLIB
+2023-04-03 03:01:55.300201 - Found OD.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/OD
+2023-04-03 03:01:55.301391 - Found THEN.txt (text/plain) in CBT.V504.FILE838.PDS, moved to PDS/THEN
