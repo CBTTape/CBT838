@@ -1,0 +1,21 @@
+2025-04-13 23:19:03.031414 - Received CBT.V508.FILE838.PDS from FILE838.XMI 
+2025-04-13 23:19:03.032738 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:19:03.032821 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/$$NOTE1
+2025-04-13 23:19:03.032889 - Found $$README.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/$$README
+2025-04-13 23:19:03.032955 - Found $OBIT.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/$OBIT
+2025-04-13 23:19:03.033035 - Found @FILE838.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/@FILE838
+2025-04-13 23:19:03.033106 - Found BREAK.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/BREAK
+2025-04-13 23:19:03.033256 - Found CECDYN.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/CECDYN
+2025-04-13 23:19:03.033390 - Found CECDYNO.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/CECDYNO
+2025-04-13 23:19:03.033781 - Found CECDYNRW.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/CECDYNRW
+2025-04-13 23:19:03.033851 - Found CONTINUE.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/CONTINUE
+2025-04-13 23:19:03.033914 - Found DOMACRO.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/DOMACRO
+2025-04-13 23:19:03.034095 - Found DUMPINFO.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/DUMPINFO
+2025-04-13 23:19:03.034219 - Found ELSE.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/ELSE
+2025-04-13 23:19:03.034296 - Found ELSEIF.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/ELSEIF
+2025-04-13 23:19:03.034371 - Found EQUBC.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/EQUBC
+2025-04-13 23:19:03.034460 - Found FI.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/FI
+2025-04-13 23:19:03.034536 - Found IF.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/IF
+2025-04-13 23:19:03.034937 - Found MACLIB.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/MACLIB
+2025-04-13 23:19:03.035019 - Found OD.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/OD
+2025-04-13 23:19:03.035094 - Found THEN.txt (text/plain) in CBT.V508.FILE838.PDS, moved to PDS/THEN
